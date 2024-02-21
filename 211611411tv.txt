@@ -24,7 +24,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣 |QQ群独享",
+            "name": "点击这里更换接口",
             "type": 3,
             "jar": "./yydf/guafty.jar;md5;6695b4fe705a1eedcae352abe5412640",
             "api": "csp_DouDou",
