@@ -254,19 +254,6 @@
     },
  
    
-
-    {
-      "key": "sliu_spider",
-      "name": "石榴┃直连",
-      "api": "csp_ShiLiuDY",
-      "type": 3,
-      "filterable": 1,
-      "playerType": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-        "jar":"https://xgck.pages.dev/Yoursmile.jar;md5;a5c29d1840207b137a855e23526d6e32",
-      "ext": ""
-    },
   
    
     {
