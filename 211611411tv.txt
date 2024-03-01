@@ -549,15 +549,6 @@
             }
         },
         {
-            "key": "天天",
-            "name": "🔥天天",
-            "type": 3,
-            "jar": "./yydf/fix1209.jar;md5;55c166b3567b9a5b7746a048c5472263",
-            "api": "csp_TTian",
-            "playerType": 1,
-            "ext": "http://op.ysdqjs.cn"
-        },
-        {
             "key": "直播转点播1",
             "name": "⛳ 直播.教学T4 ",
             "type": 4,
