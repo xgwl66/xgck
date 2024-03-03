@@ -230,11 +230,7 @@ com/huaiyin-tv/hyys.m3u8?zjiangsd
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 百姓健康,https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
-超级电视剧,http://39.134.136.205:6610/200000001898/460000089800010065/1.m3u8?IAS=
-超级电影,http://39.134.136.205:6610/200000001898/460000089800010064/1.m3u8?IAS=
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-中国党员教育,http://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
 地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
 跟踪追击,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8
