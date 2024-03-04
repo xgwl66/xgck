@@ -17,14 +17,12 @@ CCTV15,http://117.27.190.42:9901/tsfile/live/23246_1.m3u8?key=txiptv&playlive=1&
 CCTV17,http://117.27.190.42:9901/tsfile/live/23247_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5＋,http://117.27.190.42:9901/tsfile/live/23248_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://117.27.190.42:9901/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV1,http://222.241.145.246:8888/udp/239.76.246.230:1234
 CCTV1,http://222.185.245.194:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://101.71.176.182:8888/newlive/live/hls/14/live.m3u8
 CCTV1,http://119.98.162.90:85/rtp/239.254.96.161:9040
 CCTV1,http://49.74.45.21:8888/rtp/239.49.9.43:6000
 CCTV1,http://175.0.50.196:8899/tsfile/live/0017_1.m3u8
 CCTV1,http://183.134.3.22:8888/newlive/live/hls/13/live.m3u8
-CCTV1,http://222.65.172.211:22222/udp/239.45.3.145:5140
 CCTV1,http://101.19.60.244:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://123.129.70.178:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
@@ -236,7 +234,6 @@ CCTV15,https://tv.smart-chat.net/iptv.php?id=102000&num=1
 CCTV15,https://tv.smart-chat.net/iptv.php?id=102000&num=3
 CCTV15,http://183.134.3.22:8888/newlive/live/hls/16/live.m3u8
 CCTV15,http://125.210.152.19:9123/live/hzgq-cctvmusicgq-h264.m3u8
-CCTV16,http://222.241.145.246:8888/udp/239.76.246.230:1234
 CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV16,http://222.188.68.38:8888/newlive/live/hls/17/live.m3u8
 CCTV16,http://222.189.51.62:8888/newlive/live/hls/16/live.m3u8
@@ -337,8 +334,6 @@ CCTV风云剧场频道,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/322122
 咪咕体育,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕体育,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
 卫视频道,#genre#
-广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
