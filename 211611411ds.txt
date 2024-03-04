@@ -284,8 +284,6 @@ CCTV16,https://tv.smart-chat.net/iptv.php?id=102100&num=1
 CCTV16,http://125.210.152.19:9123/live/hzgq-cctv16gq-h264.m3u8
 CCTV16,https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8
 CCTV16,http://gmxw.7766.org:808/hls/169/index.m3u8
-CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-CCTV16-4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 CCTV16-4K,http://202208201800.iptv.z-link.cn:8800/tsfile/live/0018_1.m3u8
 CCTV17,http://113.195.13.183:9901/tsfile/live/0019_1.m3u8
 CCTV17,https://tv.smart-chat.net/iptv.php?id=102200&num=2
