@@ -1146,6 +1146,7 @@ CHC动作电影5,https://epg.pw/stream/44225e357940f3899a11a50e79ced2a762cd88c9b
 CHC动作电影6,https://epg.pw/stream/17b016534d2f93eb861a645b18edfd157f11e84843dc837d0f22280eb4d25c58.ctv
 CHC高清电影,https://epg.pw/stream/0fc644caf6205b2dd46b84766084d0a90eff010686f75b2fd646bdcf1943883d.m3u8
 CHC高清电影,https://epg.pw/stream/c8d639b1b2a399a034b8d91ff8a9dee362af63e2009cdd68af5367692b0b9245.m3u8
+周星驰电影,http://hls.ye23.vip/wl/huya2205.php?id=11342412
 
 成龙动作,https://epg.pw/stream/b19ad91c0425cd218e15366baf7fdfa7b76c347b391173ff18c97460cccac5fa.ctv
 成龙动作,https://epg.pw/stream/1309527a0f260dd4129e54a08fef29689043e9a7546777c204072e7553d34473.ctv
