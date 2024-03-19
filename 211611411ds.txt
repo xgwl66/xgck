@@ -1152,7 +1152,8 @@ CHC高清电影,https://epg.pw/stream/c8d639b1b2a399a034b8d91ff8a9dee362af63e200
 成龙动作,https://epg.pw/stream/b19ad91c0425cd218e15366baf7fdfa7b76c347b391173ff18c97460cccac5fa.ctv
 成龙动作,https://epg.pw/stream/1309527a0f260dd4129e54a08fef29689043e9a7546777c204072e7553d34473.ctv
 电视剧场,https://epg.pw/stream/aec780615d18732307adc2c03f309ef3c200d5a51093a7c5ec89591a25a44388.ctv
-
+湖南电影,http://111.8.242.84:9901/tsfile/live/1005_1.m3u8
+文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 儿童频道,#genre#
 动漫秀场,http://49.87.154.246:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 嘉佳卡通,http://222.71.189.186:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1186,6 +1187,7 @@ CHC高清电影,https://epg.pw/stream/c8d639b1b2a399a034b8d91ff8a9dee362af63e200
 澳门财经,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 感动澳门,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 台湾频道,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+香港有线,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
 国际频道,#genre#
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
@@ -4142,6 +4144,7 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 《英雄泪》,https://vd3.bdstatic.com/mda-ncnp6tm56ngrxbis/360p/h264_delogo/1648055585617071282/mda-ncnp6tm56ngrxbis.mp4
 2022几首DJ串烧,https://vd3.bdstatic.com/mda-nck3tqzgjvj076vc/sc/cae_h264_delogo/1647833645083560959/mda-nck3tqzgjvj076vc.mp4
 各类频道,#genre#
+生活频道,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 白银综合,http://live.bygd.cn/byzh/sd/live.m3u8?gansu
 白银公共,http://live.bygd.cn/bygg/sd/live.m3u8?zgand
 酒泉综合,http://stream.gsjqtv.com/pd1/sd/live.m3u8?zgand
