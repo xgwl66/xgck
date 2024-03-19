@@ -1173,6 +1173,9 @@ CHC高清电影,https://epg.pw/stream/c8d639b1b2a399a034b8d91ff8a9dee362af63e200
 卡酷动画,http://219.135.208.218:8083/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 金鹰卡通,http://219.135.208.218:8083/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 港澳台频道,#genre#
+好莱坞电影,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8554/.m3u8
+东森电影,http://ali.hlspull.yximgs.com/live/huanqiuhklivejowdxnjltdjhecvxcjjejjejyhjdyduojuomdfjhjjjdjsjy.flv
+龙华洋片,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfvxcvxsjbcvjfdvsfcbjbnjtyxty.flv
 中天新闻,https://s2.pub/cctv-17
 东森新闻,https://s2.pub/cctv-18
 翡翠台,https://epg.pw/stream/80c9fc96e45c72553ecc03313de560755db339689870f9095aa9c685e39879e5.ctv
