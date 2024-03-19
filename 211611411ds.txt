@@ -1178,12 +1178,11 @@ CHC高清电影,https://epg.pw/stream/c8d639b1b2a399a034b8d91ff8a9dee362af63e200
 翡翠台,https://epg.pw/stream/80c9fc96e45c72553ecc03313de560755db339689870f9095aa9c685e39879e5.ctv
 凤凰台,https://epg.pw/stream/544b45a6ee430683fdf2aef7329b7b277e7827a3a57a57f3700b7fd1b15c5df4.m3u8
 凤凰资讯,https://epg.pw/stream/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8
-凤凰香港,https://epg.pw/stream/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8
-https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
+凤凰香港,https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
 澳门午安新闻,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 澳门财经,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 感动澳门,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
-台湾电影,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+台湾频道,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
 国际频道,#genre#
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
