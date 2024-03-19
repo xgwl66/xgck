@@ -1175,6 +1175,7 @@ CHC高清电影,https://epg.pw/stream/c8d639b1b2a399a034b8d91ff8a9dee362af63e200
 港澳台频道,#genre#
 中天新闻,https://s2.pub/cctv-17
 东森新闻,https://s2.pub/cctv-18
+翡翠台,https://epg.pw/stream/952c3fe5cf37315f2e4e040fcb33734ccf2517bcde6c30c4a38015689f1e7f37.m3u8
 国际频道,#genre#
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
