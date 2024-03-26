@@ -1,26 +1,8 @@
 {
-  "url": "https://api.github.com/repos/ZCShou/GoGoGo/releases/134211205",
-  "assets_url": "https://api.github.com/repos/ZCShou/GoGoGo/releases/134211205/assets",
-  "upload_url": "https://uploads.github.com/repos/ZCShou/GoGoGo/releases/134211205/assets{?name,label}",
-  "html_url": "https://github.com/ZCShou/GoGoGo/releases/tag/ReleaseV2.0",
-  "id": 134211205,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
     "node_id": "MDM6Qm90NDE4OTgyODI=",
-    "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-    "gravatar_id": "",
-    "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-    "html_url": "https://github.com/apps/github-actions",
-    "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-    "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-    "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-    "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-    "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-    "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-    "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-    "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
     "type": "Bot",
     "site_admin": false
   },
@@ -34,28 +16,10 @@
   "published_at": "2023-12-17T07:20:21Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/ZCShou/GoGoGo/releases/assets/141098534",
-      "id": 141098534,
-      "node_id": "RA_kwDOGeXndc4IaP4m",
-      "name": "Go_2.0_arm64-v8a_release-signed.apk",
-      "label": "",
       "uploader": {
         "login": "github-actions[bot]",
         "id": 41898282,
         "node_id": "MDM6Qm90NDE4OTgyODI=",
-        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-        "html_url": "https://github.com/apps/github-actions",
-        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
         "type": "Bot",
         "site_admin": false
       },
@@ -70,6 +34,6 @@
   ],
   "tarball_url": "https://api.github.com/repos/ZCShou/GoGoGo/tarball/ReleaseV2.0",
   "zipball_url": "https://api.github.com/repos/ZCShou/GoGoGo/zipball/ReleaseV2.0",
-  "body": "## New Features\n* **joystick:**\n  * resize some icon (a6358f0a5ead0695d37d15f5ea6ec086697fa00e by @ZCShou)\n  * zoom out some icon (b2100c5eceb67ba82a379ce4c84ce3460fa0944c & 53a86a8b512fdbd7ccad7ebe6f286a88055e68fa by @ZCShou)\n  * enlarge joystick (ec2de1046fe6f9ff42d541975e08f2c3026d8feb by @ZCShou)\n* **map:**\n  * updage baidu map sdk (b6d2989b367b652e5ac07b95c4001c87c3e33a00 by @ZCShou)\n* **mian:**\n  * use markwon to show markdown (8d3b9f5c079eb3862f003c1e5c066199fb7ffec6 by @ZCShou)\n\n## Bug Fixes\n* **github actions:**\n  * badge in README can not used because action changed name (dbd128a179f4e785b3bc8caa8d04cf9b0c2590c4 by @ZCShou)\n  * changelog can not parse version (fcf45e498d5948b8f07cca2c86cf2b2bf2ac9110 by @ZCShou)\n* **history:**\n  * fix the ui break when history item text is too long (1436a1f51d639e2226db05420f360a00f2e292ea by @ZCShou)\n* **ISSUE:**\n  * fix github issue template duplicated (92448d452e50275a3974a1e3771d40e829ee389b by @ZCShou)\n* **joystick:**\n  * the left button need to be click twice (407abfd3db57f91c4a926c96a576b5b8194b5081 by @ZCShou)\n  * fix jostick history ui is too small when no history (bb99e031242bebc9c6544b47bd7fe40d61074168 by @ZCShou)\n  * fix joystick map serach result can not hide after close window (98f214ad9b4a333a7b6e0ad4e7cdd7449347a694 by @ZCShou)\n  * fix joystick history ui Scale when open search (60d4a9dd3e3ae786e9db8aa985ce2f01adbae497 by @ZCShou)\n  * fix a crach when select location by joystick map (5b18c856157924539b85113d344eb776166d97f6 by @ZCShou)\n* **License:**\n  * fix license compliance (435f9ef74b51fdddc2aa67f99e8b443e6b7db489 by @ZCShou)\n* **Main:**\n  * fix some useless parameter (42a3014ecd427a5745e67ca311d937f98a33c2f5 by @ZCShou)\n* **mian:**\n  * fix an crash when saving location (b014e53d50cd11c78f4e152f076747e25bdb4f78 by @ZCShou)\n  * fix some warnings (1b87477b44e6d208f6a59ae77ad350e735c88c7e by @ZCShou)\n  * fix do not record location when go continually (0e30108d17448510417a7e70f929780838e0435f by @ZCShou)\n  * fix can not go continually (4eb13eac7c88bbc20d3c5b4b0b3ce8509c4de8c9 by @ZCShou)\n* **settings:**\n  * fix some warning in settings (c31db101074b25966fafcf0d548233ed67ba1015 by @ZCShou)\n  * DO NOT allow empty value (798267f410da9f0bfea5f756c61f5bee43fc0468 by @ZCShou)\n  * the position of cursor is not correct for some inouts (c326480c93db9bfc675d2e2528831efd4a3b2dbf by @ZCShou)\n* **style:**\n  * fix some inefficient empty string test (108a588da0b9f0a1fbe0f7f484db49532e16f881 by @ZCShou)\n  * fix some method witout overide keyword (025c0140bd3bb1a9c464dbf17f3390496914be07 by @ZCShou)\n* **welcome:**\n  * adjust the logic of selecting privacy and agreement (c6556eb0d51589f594a3eb62fc4526d227e6474a by @ZCShou)\n  * fix crash when starting up (ab7ba9fe970ab2a22f00247d76eebda90d420427 by @ZCShou)\n* **xml:**\n  * add some comments (f8407de87b0a5016a81e24262e144b97951899df by @ZCShou)\n\n## Documentation\n* **README:**\n  * update (6e941576e890021aa3c257033e15b4d736e567e2 & 9897c4b8a09169c1f7dc5cad6c917998d3d7ee00 & c81d4766e29c60c1e000fc8ad6cca6fb7a2a7fc3 by @ZCShou)\n  * update en (05967844b0d22985874c58839a3cb13e59306f06 by @ZCShou)\n\n## Refactors\n* **history:**\n  * refactor welcome code (8ac1e95d7f73138a9d0d2f0bed97f5641c552db3 by @ZCShou)\n* **joystick:**\n  * refactor joystick code (311b0f737f1d09822552b2dde0ad4ee201a136cb by @ZCShou)\n* **main:**\n  * clear some code (2ea7e49c8efdf1fd283404e739519f6868e9fc2b by @ZCShou)\n  * now we used offline coordinate convertion (3e58fd18b7617e00d7fb616e5219a230b5239b24 by @ZCShou)\n  * refactor check wifi code (99b7a62d31d0d30e4b97f0bb91fa98beb0d2a9d4 by @ZCShou)\n  * refactor main code (ac6664b9f55a0c19300b85f25c01d909419ce354 & 12c583c4a149e10cde3fd70d450aca62ea35f574 & 676bddcb050ef214de1d37577961d635265908ee & edd5ef4d11673f7b597300bfb75c20a91d6d35c0 by @ZCShou)\n  * refactor joystick code (827eaca95616906edeb72e3f29894c0ecc204486 by @ZCShou)\n* **UI:**\n  * rename ui file name (e3ae319f5017b382bb546cec49ab1a275f02d280 by @ZCShou)\n* **welcome:**\n  * redesign the welcome page (497dfd4669e107eac7665450347b559a8b2e99b5 & db727d3682c0f21fc614bfe1ef9c5e271cdf21ce by @ZCShou)\n  * refactor setting code (2ac7286609a23681b6f845919a1bbbdb076dc7b1 by @ZCShou)\n  * refactor welcome code (d75cd54b3f6456228638d7bf18ac6947de44cdf9 by @ZCShou)\n\n## Chores\n* **AGP:**\n  * update AGP (c4722accba86eb1e6380727b29544bbb15a4e55e by @ZCShou)\n* **all:**\n  * update version (6218ce44d1fc7737cd140580bea5d94525ffb846 by @ZCShou)\n* **deps:**\n  * bump ardalanamini/auto-changelog from 3 to 4 (8226915b57ec29f914618634b12f582328714b0c by @dependabot[bot])\n  * bump com.squareup.okhttp3:okhttp from 4.10.0 to 4.11.0 (b1e8f6128a826f5e19447ddfdad0358c98c76856 by @dependabot[bot])\n* **gradle:**\n  * update some dependency (b60b290c170d4ecf116c5f0b5e6baa293c0c3285 & 9393eafd4e2e909c6e52d3a1493f3fc04c6ecdc5 by @ZCShou)\n* **joystick:**\n  * redesign some icon (4d7bd6c0539352e8926a670166dbfad655fe575c by @ZCShou)\n* **map:**\n  * update okhttp3 to 4.10.0 (0fc56dc2b028cf44a453b18f4549ab632bfac42c by @ZCShou)\n  * update version (9f03ed3312d976a998cafb5368c46b14d5170373 by @ZCShou)\n  * update baidu sdk (18908bd6d73801960abac77076fd057b0f362afb by @ZCShou)\n* **ui:**\n  * redraw the app's icon (b8ae3d54749779b9a3a0194ce21bf8f5f6ec7582 by @ZCShou)\n* **welcome:**\n  * rename the layout file (9e1e698776f893733229a1e2688da13b15e01f0b by @ZCShou)\n\n## CI\n* **Github Actions:**\n  * update build actions (10b10c673b1618dfa6e67ad4f0af2d7135a04d24 by @ZCShou)\n\n## Code Style\n* **joystick:**\n  * redraw the rockerview‘s lock icon (3fcd94ae16cae5d739069c135223ebe1845750b7 by @ZCShou)\n* **main:**\n  * update map button style when clicking (d26698dd092db49dd1bf9ad3f5589ce916212e6f by @ZCShou)\n* **protocol:**\n  * rename some related variable (e0b684e7c41576ec8f2182f4d45900da24492898 & e521d6e1fafb359bcc41f75e3acbb7da457a85df by @ZCShou)\n* **setting:**\n  * update setting ui (02e060f0dd860bc8088bac70d16bbc09d1eabe44 by @ZCShou)\n* **theme:**\n  * adjust theme (add0e83182b6d9ba326630c444500b906acc527c by @ZCShou)\n\n## Other Changes\n* 2022-06-18 04:32:17 (24a00089e752de24dc09a970e75c16030d973da9 by @ZCShou)\n* Criteria.ACCURACY_FINE lint error on Android 12 (82b41447d116d9aa36e4299c2cf891e018e9b5cd by @ZCShou)\n* ' to use the faster \"indexOf(char)\" method. (82fdfbbca076ed6025d58ce13a78a0fc48098a3c by @ZCShou)\n* //en.wikipedia.org/wiki/Comparison_of_ARMv8-A_cores (266dcc3d8430fc08d6890466fc097b4f31335f00 by @ZCShou)\n* //gitee.com/zcshou/gogogo (4f5db18e71117e03820438583ca5374b4e2d346f by @ZCShou)\n* **<github>:**\n  * fix github actions (ab0ecf1aa503a8f39f8ab7dca7f48b1ed700a902 by @ZCShou)\n* **<README>:**\n  * add some warnings (fae542c0fc3af1df5e7ec66519bf19fb60f0ef0d by @ZCShou)\n* **actions:**\n  * update issue actions (5e3371066f2724ede656027d68b1ec42ef43528c by @ZCShou)\n* **baidu:**\n  * update baidu map sdk (c37171ebb23259356cc793923c677c0f29dd2431 by @ZCShou)\n* **button:**\n  * update joystick button style when clicking (ecd4abc6f1d5d41861ac05e38640b405c404218c by @ZCShou)\n* **clear:**\n  * clear some deprecated config (5e1e5844709bfcf21d5a95b98f978d92679e574b by @ZCShou)\n* **github:**\n  * delete codeql enties. (a1d6ff9cd4b18e91aff8522aca66bb2c48404f5e by @ZCShou)\n  * fix release actions (b9c30432c37d05d4cd71fa0e456e781b0b158f8a & 81f4218c63d51eb1143cb3f2d273bd414f92a30d & addab34c8dbc429126161855abdb6759e4310e2f & e69894dd2ab9fab03541d787ecc34f492e22808b by @ZCShou)\n* **Github:**\n  * update github's actions (6c4958783993c7da458c6892a89ffb596c76e7a9 & d391752dafebc11106f544d40c11e1f7ee54fa10 & 0c5baa9d12f72c8e7878b935e2c9fc61cf57c01b by @ZCShou)\n  * update github's issue templates (a1f2b5fb4f6cda436789cf32c30d7976ac06440e & 8e2bf9100cb23692bbb5b657c6b87f0307bc8924 by @ZCShou)\n* **github actions:**\n  * add codeql queries. (ffb964f6abad4d51d59f446d898c51339670c10e by @ZCShou)\n* **gradle:**\n  * update gradle version (76e7ee271162b5a89d678433c172c24bb40518fb by @ZCShou)\n* **issues:**\n  * Update issue templates (890d1d89d0496ab40d4a7cb988e7a531a3fb8a08 by @ZCShou)\n* **link:**\n  * update git repository link (9e99e857fa32f7c87ddef5c27495fb376d942ffb by @ZCShou)\n* **map:**\n  * update baidu map sdk (b5fb8150df6c4c4cd8243fc8de186fe571e52741 by @ZCShou)\n  * update float map button (59c138e0b4dfa73fe21435cf24799d39f3c1fa84 by @ZCShou)\n* **NDK:**\n  * update NDK to 25.1 (c1da7ac8895ea5269e81414a80e1cfc6747edbb9 by @ZCShou)\n* **panel:**\n  * update poi panel and fly icon (cd326b22664a11e04cd52cef94c7457f3b8395bb by @ZCShou)\n* **PR:**\n  * update PR template (7513fc2835b715c0543ae0e37b78362d63197ce5 by @ZCShou)\n* **README:**\n  * rename some image's name (1c6fe9517af8bffb4a6cc076fd637aa8f82e027f by @ZCShou)\n  * add some warnings (26b6fea74a12d97808e28066c913f692244f62bc & 35234964617a8c2cfe7dd010e0f40138bd8d9cd6 by @ZCShou)\n* **SECURITY:**\n  * update SECURITY.md (e983d9c83f235f46882599f75501befd4e9b70db by @ZCShou)\n* **service:**\n  * update service stop (8642e02f3cdcc5ca5d584e87776bea87a3f0b008 by @ZCShou)\n",
+  "body": "## New Features\n* **牛逼了轩哥，更新了\n",
   "mentions_count": 2
 }
