@@ -425,8 +425,103 @@
         },
 
 
+        {
+            "key": "Kuaikan",
+            "name": "💫快看影院",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "酷影视",
+            "name": "🍃酷影影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.tvkuys.xyz/api.php/app/"
+        },
 
 
+    {
+      "key": "sliu_spider",
+      "name": "石榴┃直连",
+      "api": "csp_ShiLiuDY",
+      "type": 3,
+      "filterable": 1,
+      "playerType": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+        "jar":"http://cdn.qiaoji8.com/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32",
+      "ext": ""
+    },
+
+   {
+      "key": "豪华资源",
+      "name": "🥬┃豪华┃2K",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+          "playurl": "https://hhjiexi.com/play/?url=",
+      "categories": [
+        "内地剧",
+        "香港剧",
+        "欧美剧",
+        "韩剧",
+        "日剧",
+        "马泰剧",
+        "台湾剧",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "剧情片",
+        "战争片",
+        "动作片",
+        "科幻片",
+        "记录片",
+        "爱情片",
+        "喜剧片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺"
+      ]
+    },
+  
+       {
+      "key": "lzzywdj",
+      "name": "️短剧一次看爽1",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+ 
+            "短剧"
+        
+      ]
+    },
+    
+      {      "key": "xldj",    "name": "️短剧再来一个",      "type": 1,     "api": "   https://api.xinlangapi.com/xinlangapi.php/provide/vod/   ",      "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [        "短剧"   ]   },
+    
+        {      "key": "wujingdj",    "name": "️短剧一次看爽2",      "type": 1,     "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",      "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [        "短剧"   ]   },
+    
+         {      "key": "jisuzydj",    "name": "️短剧一次看爽3",      "type": 1,    "api": " https://jszyapi.com/api.php/provide/vod ",       "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [        "短剧"   ]   },
+    
+    
+             {      "key": "snzydj",    "name": "️短剧一次看爽5",      "type": 1,    "api":  "  https://suoniapi.com/api.php/provide/vod/?ac=list   ",       "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [        "爽文短剧"   ]   },
+    
+      {      "key": "fszydj",    "name": "️短剧一次看爽6",      "type": 1,    "api":  " https://www.feisuzyapi.com/api.php/provide/vod/?ac=list   ",       "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [        "短剧"   ]   },
 
 
 
@@ -450,27 +545,6 @@
 {"key":"drpy_js_JRKAN直播","name":"JRKAN直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
 {"key":"短视频","name":"☘️短视频","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":{"主页url":"http://www.sharenice.net","直接播放":"1","嗅探词":".m3u8#m3u8?#.mp4#mp4?#ixigua#.czspp#.flv#.mp3#.m4a#?item/video#is_play_url=1#play/?#qianpailive","分类":"抖音&快手&微视&火山&场库&美拍&秒拍&全民&梨&好兔&开眼&美女&搞笑&社会&音乐&娱乐&影视&正能量&生活&动漫&萌系&美食&体育&游戏&明星&旅游&时尚","分类值":"douyin&kuaishou&weishi&huoshan&changku&meipai&miaopai&quanmin&lishipin&haotu&kaiyan&t-576O5aWz&t-5pCe56yR&t-56S+5Lya&t-6Z+z5LmQ&t-5aix5LmQ&t-5b2x6KeG&t-5q2j6IO96YeP&t-55Sf5rS7&t-5Yqo5ryr&t-6JCM57O7&t-576O6aOf&t-5L2T6IKy&t-5ri45oiP&t-5piO5pif&t-5peF5ri4&t-5pe25bCa","分类url":"http://www.sharenice.net/{cateId}?page={catePg}","二次截取":"class=\"item-box\">&&</ul>","数组":"<li&&</li>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\""}},
 {"key":"酷奇MV","name":"🎸酷奇MV","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":{"主页url":"https://www.kuqimv.com","直接播放":"1","短视频":"1","分类":"华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10","分类url":"https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z","数组":"<li>&&</li>","标题":"title=\"&&\"","副标题":"target=\"play\">&&<","搜索模式":"1","搜索url":"https://www.kuqimv.com/search.php?key={wd}"}},
-
-
-
-
-
-
- { "key": "厂长", "name": "厂长", "type": 3, "api": "csp_Czsapp", "timeout": 15, "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.czzy77.com/" },{ "key": "荐片", "name": "荐片", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "playerType": "1", "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js", "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js" },  { "key": "短剧", "name": "短剧", "type": 3, "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js", "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js", "searchable": 1, "quickSearch": 1, "changeable": 0 },  { "key": "drpy_js_量子资源", "name": "量子[js]", "type": 3, "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js", "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/量子资源.js" }, { "key": "鑫鑫[V2]", "name": "鑫鑫[V2][js]", "type": 3, "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js", "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/鑫鑫[V2].js" }, { "key": "ikanbot3", "name": "ikanbot3[js]", "type": 3, "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js", "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js" }, { "key": "新视觉js", "name": "新视觉[js]", "type": 3, "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js", "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/新视觉影视.js" },
-
-
-
-
-
-
-{"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
-{"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixs.json"},
-{"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"},
-{"key":"少儿","name":"🅱️少儿","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/少儿教育.json"},
-{"key":"小学","name":"🅱️小学","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/小学课堂.json"},
-{"key":"初中","name":"🅱️初中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/初中课堂.json"},
-
-
 
 
 
@@ -516,6 +590,25 @@
         },
 
 
+
+
+ { "key": "厂长", "name": "厂长", "type": 3, "api": "csp_Czsapp", "timeout": 15, "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "https://www.czzy77.com/" },{ "key": "荐片", "name": "荐片", "type": 3, "searchable": 1, "quickSearch": 1, "changeable": 1, "playerType": "1", "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js", "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js" },  { "key": "短剧", "name": "短剧", "type": 3, "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js", "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js", "searchable": 1, "quickSearch": 1, "changeable": 0 },  { "key": "drpy_js_量子资源", "name": "量子[js]", "type": 3, "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js", "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/量子资源.js" }, { "key": "鑫鑫[V2]", "name": "鑫鑫[V2][js]", "type": 3, "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js", "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/鑫鑫[V2].js" }, { "key": "ikanbot3", "name": "ikanbot3[js]", "type": 3, "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js", "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js" }, { "key": "新视觉js", "name": "新视觉[js]", "type": 3, "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js", "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/新视觉影视.js" },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
       "key": "本地",
       "name": "本地存储",
@@ -523,10 +616,12 @@
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0
-    },
-
-
-{"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/高中课堂.json"}
+    }
+    
+    
+    
+    
+    
 ],
 "parses": [{
 		"name": "Web聚合",
