@@ -1,0 +1,14 @@
+{
+	"allowOpenApp": true,
+	"gitee": "https://211611411.github.io/xgwlrj",
+	"downloadUrl": "https://211611411.github.io/xgwlrj",
+	"openAD": true,
+	"ad_intervals_time": 30000,
+	"oepnFirst": 1,
+	"openTencentAD": true,
+	"openADView": true,
+	"ad_time_out": 5000,
+	"share_text": "https://211611411.github.io/xgwlrj",
+	"enable_": false,
+	"loadB": true
+}
