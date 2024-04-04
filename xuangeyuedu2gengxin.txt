@@ -2,10 +2,10 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 2,
-  "VersionCode": 11999,
+  "VersionCode": 1.0,
   "VersionName": "最新",
   "UploadTime": "2021-08-10 06:09:08",
-  "ModifyContent": "\r\n1、亲爱的用户，轩哥阅读已发布新版本。\r\n2、更新所有书源。若遇安装问题，请浏览器访问此链接进行下载：https://211611411.github.io/xgwlrj",
+  "ModifyContent": "\r\n1、亲爱的用户，轩哥阅读已发布新版本。\r\n2、更新所有书源，若遇安装问题，请选择访问此链接到浏览器进行下载：https://211611411.github.io/xgwlrj",
   "DownloadUrl": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1712247069789/%E8%BD%A9%E5%93%A5%E8%BD%AF%E4%BB%B6%E5%90%88%E9%9B%86.apk",
   "ApkSize": 5000,
   "ApkMd5": ""
