@@ -2,7 +2,7 @@
   "Code": 0,
   "Msg": "",
   "UpdateStatus": 2,
-  "VersionCode": 2.0,
+  "VersionCode": 1.0,
   "VersionName": "最新",
   "UploadTime": "2021-08-10 06:09:08",
   "ModifyContent": "\r\n1、亲爱的用户，轩哥阅读已发布新版本。\r\n2、更新所有书源，若遇安装问题，请选择访问此链接到浏览器进行下载：https://211611411.github.io/xgwlrj",
