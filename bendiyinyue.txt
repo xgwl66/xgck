@@ -1,9 +1,9 @@
 {
-	"versionCode":"409",
-	"versionName":"4.0.9",
+	"versionCode":"1",
+	"versionName":"1.0",
 	"url": "https://211611411.github.io/xgwlrj",
 	"size": "2189197",
 	"md5": "D505EBD9ED679A4B73DA5F936339B330",
-	"message": "1、适配Android windows子系统桌面歌词大小和显示优化||2、Android 13及以上系统通知栏增加收藏按钮||3、页面列表项显示优化||4、添加歌词进度调整功能||5、播放歌词界面支持字体大小更改||6、修复已知bug",
+	"message": "1、永久免费使用||2、QQ：211611411||",
 	"cookie": ""
 }
