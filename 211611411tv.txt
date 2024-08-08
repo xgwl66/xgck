@@ -424,16 +424,6 @@
             ]
         },
 
-
-        {
-            "key": "Kuaikan",
-            "name": "💫快看影院",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "酷影视",
             "name": "🍃酷影影视",
