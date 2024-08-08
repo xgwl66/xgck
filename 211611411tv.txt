@@ -1,7 +1,7 @@
 
 
 {
-	"spider": "https://xgwl66.github.io/xgck/YSC.jar;md5;6B6A8129F2B7C49A67167575FF1933BE",
+	"spider": "https://xgck.pages.dev/YSC.jar;md5;6B6A8129F2B7C49A67167575FF1933BE",
 
 	"sites":[
 
