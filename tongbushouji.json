@@ -2,7 +2,7 @@
   "url": "https://api.github.com/repos/ismartcoding/plain-app/releases/157441669",
   "assets_url": "https://api.github.com/repos/ismartcoding/plain-app/releases/157441669/assets",
   "upload_url": "https://uploads.github.com/repos/ismartcoding/plain-app/releases/157441669/assets{?name,label}",
-  "html_url": "https://github.com/ismartcoding/plain-app/releases/tag/v1.2.66",
+  "html_url": "https://github.com/ismartcoding/plain-app/releases/tag/v15.00",
   "id": 157441669,
   "author": {
     "login": "github-actions[bot]",
@@ -25,9 +25,9 @@
     "site_admin": false
   },
   "node_id": "RE_kwDOGOuAHs4JYl6F",
-  "tag_name": "v1.2.66",
+  "tag_name": "v15.00",
   "target_commitish": "main",
-  "name": "Release 1.2.66",
+  "name": "Release 15.00",
   "draft": false,
   "prerelease": false,
   "created_at": "2024-05-25T07:51:04Z",
@@ -37,7 +37,7 @@
       "url": "https://api.github.com/repos/ismartcoding/plain-app/releases/assets/170015130",
       "id": 170015130,
       "node_id": "RA_kwDOGOuAHs4KIjma",
-      "name": "PlainApp-1.2.66.apk",
+      "name": "PlainApp-15.00.apk",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,11 +65,11 @@
       "download_count": 45,
       "created_at": "2024-05-25T08:05:58Z",
       "updated_at": "2024-05-25T08:05:59Z",
-      "browser_download_url": "https://211611411.github.io/xgwlrj"
+      "browser_download_url": "https://211611411.github.io"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/ismartcoding/plain-app/tarball/v1.2.66",
-  "zipball_url": "https://api.github.com/repos/ismartcoding/plain-app/zipball/v1.2.66",
+  "tarball_url": "https://api.github.com/repos/ismartcoding/plain-app/tarball/v15.00",
+  "zipball_url": "https://api.github.com/repos/ismartcoding/plain-app/zipball/v15.00",
   "body": "## What's Changed\r\n\r\n* Redesigned Video Player",
   "reactions": {
     "url": "https://api.github.com/repos/ismartcoding/plain-app/releases/157441669/reactions",
