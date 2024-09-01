@@ -1,7 +1,7 @@
 {
-	"versionCode":"1",
-	"versionName":"1.0",
-	"url": "https://211611411.github.io/xgwlrj",
+	"versionCode":"4",
+	"versionName":"4.0",
+	"url": "https://211611411.github.io",
 	"size": "2189197",
 	"md5": "D505EBD9ED679A4B73DA5F936339B330",
 	"message": "1、永久免费使用||2、QQ：211611411||",
